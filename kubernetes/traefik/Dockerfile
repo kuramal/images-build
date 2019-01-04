@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/traefik:v1.6.0
+FROM traefik:v1.7.6
 MAINTAINER kuramal
