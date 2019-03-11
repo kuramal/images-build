@@ -1,2 +1,2 @@
 # images-build
-# istio's images build
+# istio's & kubernetes images build
