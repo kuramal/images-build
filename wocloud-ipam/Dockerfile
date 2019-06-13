@@ -1,4 +1,4 @@
-FROM scratch
+FROM centos
 
 LABEL maintanier="Kuramal <linxxnil@126.com>"
 
