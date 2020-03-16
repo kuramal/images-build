@@ -1,4 +1,4 @@
-FROM goharbor/harbor-jobservice:v1.10.1
+FROM goharbor/harbor-jobservice:v1.9.4
 
 USER root
 
